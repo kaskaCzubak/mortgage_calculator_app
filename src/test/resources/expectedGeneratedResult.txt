@@ -1,0 +1,409 @@
+LOAN AMOUNT: 301953.46 EUR
+LOAN TERM: 180 MONTHS
+INTEREST: 0.0330 %
+OVERPAYMENTS START MONTH: 1 MONTH
+OVERPAYMENT - REDUCE PERIOD
+SCHEME FOR MAKING OVERPAYMENTS:
+MONTH: 2, AMOUNT: 10000 EUR
+MONTH: 3, AMOUNT: 10000 EUR
+MONTH: 5, AMOUNT: 10000 EUR
+MONTH: 6, AMOUNT: 10000 EUR
+MONTH: 7, AMOUNT: 10000 EUR
+
+TOTAL INTEREST: 54191.45 EUR
+COMMISSION FOR OVERPAYMENT: 1500.00 EUR
+TOTAL LOSSES: 55691.45 EUR
+TOTAL CAPITAL: 301953.46 EUR
+
+NO:    1 YEAR:   1 MONTH:    1 DATE:   2020-12-10 RATE:    2129.08 INTEREST:     830.37 CAPITAL:    1298.71 OVERPAY:          0 ResAmount:  300654.75 ResDuration:        179
+NO:    2 YEAR:   1 MONTH:    2 DATE:   2021-01-10 RATE:    2129.08 INTEREST:     826.80 CAPITAL:    1302.28 OVERPAY:      10000 ResAmount:  289352.47 ResDuration:        171
+NO:    3 YEAR:   1 MONTH:    3 DATE:   2021-02-10 RATE:    2129.08 INTEREST:     795.72 CAPITAL:    1333.36 OVERPAY:      10000 ResAmount:  278019.11 ResDuration:        162
+NO:    4 YEAR:   1 MONTH:    4 DATE:   2021-03-10 RATE:    2129.08 INTEREST:     764.55 CAPITAL:    1364.53 OVERPAY:          0 ResAmount:  276654.58 ResDuration:        161
+NO:    5 YEAR:   1 MONTH:    5 DATE:   2021-04-10 RATE:    2129.08 INTEREST:     760.80 CAPITAL:    1368.28 OVERPAY:      10000 ResAmount:  265286.30 ResDuration:        153
+NO:    6 YEAR:   1 MONTH:    6 DATE:   2021-05-10 RATE:    2129.08 INTEREST:     729.54 CAPITAL:    1399.54 OVERPAY:      10000 ResAmount:  253886.76 ResDuration:        145
+NO:    7 YEAR:   1 MONTH:    7 DATE:   2021-06-10 RATE:    2129.08 INTEREST:     698.19 CAPITAL:    1430.89 OVERPAY:      10000 ResAmount:  242455.87 ResDuration:        137
+NO:    8 YEAR:   1 MONTH:    8 DATE:   2021-07-10 RATE:    2129.08 INTEREST:     666.75 CAPITAL:    1462.33 OVERPAY:          0 ResAmount:  240993.54 ResDuration:        136
+NO:    9 YEAR:   1 MONTH:    9 DATE:   2021-08-10 RATE:    2129.08 INTEREST:     662.73 CAPITAL:    1466.35 OVERPAY:          0 ResAmount:  239527.19 ResDuration:        135
+NO:   10 YEAR:   1 MONTH:   10 DATE:   2021-09-10 RATE:    2129.08 INTEREST:     658.70 CAPITAL:    1470.38 OVERPAY:          0 ResAmount:  238056.81 ResDuration:        134
+NO:   11 YEAR:   1 MONTH:   11 DATE:   2021-10-10 RATE:    2129.08 INTEREST:     654.66 CAPITAL:    1474.42 OVERPAY:          0 ResAmount:  236582.39 ResDuration:        133
+NO:   12 YEAR:   1 MONTH:   12 DATE:   2021-11-10 RATE:    2129.08 INTEREST:     650.60 CAPITAL:    1478.48 OVERPAY:          0 ResAmount:  235103.91 ResDuration:        132
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   13 YEAR:   2 MONTH:    1 DATE:   2021-12-10 RATE:    2129.08 INTEREST:     646.54 CAPITAL:    1482.54 OVERPAY:          0 ResAmount:  233621.37 ResDuration:        131
+NO:   14 YEAR:   2 MONTH:    2 DATE:   2022-01-10 RATE:    2129.08 INTEREST:     642.46 CAPITAL:    1486.62 OVERPAY:          0 ResAmount:  232134.75 ResDuration:        130
+NO:   15 YEAR:   2 MONTH:    3 DATE:   2022-02-10 RATE:    2129.08 INTEREST:     638.37 CAPITAL:    1490.71 OVERPAY:          0 ResAmount:  230644.04 ResDuration:        129
+NO:   16 YEAR:   2 MONTH:    4 DATE:   2022-03-10 RATE:    2129.08 INTEREST:     634.27 CAPITAL:    1494.81 OVERPAY:          0 ResAmount:  229149.23 ResDuration:        128
+NO:   17 YEAR:   2 MONTH:    5 DATE:   2022-04-10 RATE:    2129.08 INTEREST:     630.16 CAPITAL:    1498.92 OVERPAY:          0 ResAmount:  227650.31 ResDuration:        127
+NO:   18 YEAR:   2 MONTH:    6 DATE:   2022-05-10 RATE:    2129.08 INTEREST:     626.04 CAPITAL:    1503.04 OVERPAY:          0 ResAmount:  226147.27 ResDuration:        126
+NO:   19 YEAR:   2 MONTH:    7 DATE:   2022-06-10 RATE:    2129.08 INTEREST:     621.90 CAPITAL:    1507.18 OVERPAY:          0 ResAmount:  224640.09 ResDuration:        125
+NO:   20 YEAR:   2 MONTH:    8 DATE:   2022-07-10 RATE:    2129.08 INTEREST:     617.76 CAPITAL:    1511.32 OVERPAY:          0 ResAmount:  223128.77 ResDuration:        124
+NO:   21 YEAR:   2 MONTH:    9 DATE:   2022-08-10 RATE:    2129.08 INTEREST:     613.60 CAPITAL:    1515.48 OVERPAY:          0 ResAmount:  221613.29 ResDuration:        123
+NO:   22 YEAR:   2 MONTH:   10 DATE:   2022-09-10 RATE:    2129.08 INTEREST:     609.44 CAPITAL:    1519.64 OVERPAY:          0 ResAmount:  220093.65 ResDuration:        122
+NO:   23 YEAR:   2 MONTH:   11 DATE:   2022-10-10 RATE:    2129.08 INTEREST:     605.26 CAPITAL:    1523.82 OVERPAY:          0 ResAmount:  218569.83 ResDuration:        121
+NO:   24 YEAR:   2 MONTH:   12 DATE:   2022-11-10 RATE:    2129.08 INTEREST:     601.07 CAPITAL:    1528.01 OVERPAY:          0 ResAmount:  217041.82 ResDuration:        120
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   25 YEAR:   3 MONTH:    1 DATE:   2022-12-10 RATE:    2129.08 INTEREST:     596.87 CAPITAL:    1532.21 OVERPAY:          0 ResAmount:  215509.61 ResDuration:        119
+NO:   26 YEAR:   3 MONTH:    2 DATE:   2023-01-10 RATE:    2129.08 INTEREST:     592.65 CAPITAL:    1536.43 OVERPAY:          0 ResAmount:  213973.18 ResDuration:        118
+NO:   27 YEAR:   3 MONTH:    3 DATE:   2023-02-10 RATE:    2129.08 INTEREST:     588.43 CAPITAL:    1540.65 OVERPAY:          0 ResAmount:  212432.53 ResDuration:        117
+NO:   28 YEAR:   3 MONTH:    4 DATE:   2023-03-10 RATE:    2129.08 INTEREST:     584.19 CAPITAL:    1544.89 OVERPAY:          0 ResAmount:  210887.64 ResDuration:        116
+NO:   29 YEAR:   3 MONTH:    5 DATE:   2023-04-10 RATE:    2129.08 INTEREST:     579.94 CAPITAL:    1549.14 OVERPAY:          0 ResAmount:  209338.50 ResDuration:        115
+NO:   30 YEAR:   3 MONTH:    6 DATE:   2023-05-10 RATE:    2129.08 INTEREST:     575.68 CAPITAL:    1553.40 OVERPAY:          0 ResAmount:  207785.10 ResDuration:        114
+NO:   31 YEAR:   3 MONTH:    7 DATE:   2023-06-10 RATE:    2129.08 INTEREST:     571.41 CAPITAL:    1557.67 OVERPAY:          0 ResAmount:  206227.43 ResDuration:        113
+NO:   32 YEAR:   3 MONTH:    8 DATE:   2023-07-10 RATE:    2129.08 INTEREST:     567.13 CAPITAL:    1561.95 OVERPAY:          0 ResAmount:  204665.48 ResDuration:        112
+NO:   33 YEAR:   3 MONTH:    9 DATE:   2023-08-10 RATE:    2129.08 INTEREST:     562.83 CAPITAL:    1566.25 OVERPAY:          0 ResAmount:  203099.23 ResDuration:        111
+NO:   34 YEAR:   3 MONTH:   10 DATE:   2023-09-10 RATE:    2129.08 INTEREST:     558.52 CAPITAL:    1570.56 OVERPAY:          0 ResAmount:  201528.67 ResDuration:        110
+NO:   35 YEAR:   3 MONTH:   11 DATE:   2023-10-10 RATE:    2129.08 INTEREST:     554.20 CAPITAL:    1574.88 OVERPAY:          0 ResAmount:  199953.79 ResDuration:        109
+NO:   36 YEAR:   3 MONTH:   12 DATE:   2023-11-10 RATE:    2129.08 INTEREST:     549.87 CAPITAL:    1579.21 OVERPAY:          0 ResAmount:  198374.58 ResDuration:        108
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   37 YEAR:   4 MONTH:    1 DATE:   2023-12-10 RATE:    2129.08 INTEREST:     545.53 CAPITAL:    1583.55 OVERPAY:          0 ResAmount:  196791.03 ResDuration:        107
+NO:   38 YEAR:   4 MONTH:    2 DATE:   2024-01-10 RATE:    2129.08 INTEREST:     541.18 CAPITAL:    1587.90 OVERPAY:          0 ResAmount:  195203.13 ResDuration:        106
+NO:   39 YEAR:   4 MONTH:    3 DATE:   2024-02-10 RATE:    2129.08 INTEREST:     536.81 CAPITAL:    1592.27 OVERPAY:          0 ResAmount:  193610.86 ResDuration:        105
+NO:   40 YEAR:   4 MONTH:    4 DATE:   2024-03-10 RATE:    2129.08 INTEREST:     532.43 CAPITAL:    1596.65 OVERPAY:          0 ResAmount:  192014.21 ResDuration:        104
+NO:   41 YEAR:   4 MONTH:    5 DATE:   2024-04-10 RATE:    2129.08 INTEREST:     528.04 CAPITAL:    1601.04 OVERPAY:          0 ResAmount:  190413.17 ResDuration:        103
+NO:   42 YEAR:   4 MONTH:    6 DATE:   2024-05-10 RATE:    2129.08 INTEREST:     523.64 CAPITAL:    1605.44 OVERPAY:          0 ResAmount:  188807.73 ResDuration:        102
+NO:   43 YEAR:   4 MONTH:    7 DATE:   2024-06-10 RATE:    2129.08 INTEREST:     519.22 CAPITAL:    1609.86 OVERPAY:          0 ResAmount:  187197.87 ResDuration:        101
+NO:   44 YEAR:   4 MONTH:    8 DATE:   2024-07-10 RATE:    2129.08 INTEREST:     514.79 CAPITAL:    1614.29 OVERPAY:          0 ResAmount:  185583.58 ResDuration:        100
+NO:   45 YEAR:   4 MONTH:    9 DATE:   2024-08-10 RATE:    2129.08 INTEREST:     510.35 CAPITAL:    1618.73 OVERPAY:          0 ResAmount:  183964.85 ResDuration:         99
+NO:   46 YEAR:   4 MONTH:   10 DATE:   2024-09-10 RATE:    2129.08 INTEREST:     505.90 CAPITAL:    1623.18 OVERPAY:          0 ResAmount:  182341.67 ResDuration:         98
+NO:   47 YEAR:   4 MONTH:   11 DATE:   2024-10-10 RATE:    2129.08 INTEREST:     501.44 CAPITAL:    1627.64 OVERPAY:          0 ResAmount:  180714.03 ResDuration:         97
+NO:   48 YEAR:   4 MONTH:   12 DATE:   2024-11-10 RATE:    2129.08 INTEREST:     496.96 CAPITAL:    1632.12 OVERPAY:          0 ResAmount:  179081.91 ResDuration:         96
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   49 YEAR:   5 MONTH:    1 DATE:   2024-12-10 RATE:    2129.08 INTEREST:     492.48 CAPITAL:    1636.60 OVERPAY:          0 ResAmount:  177445.31 ResDuration:         95
+NO:   50 YEAR:   5 MONTH:    2 DATE:   2025-01-10 RATE:    2129.08 INTEREST:     487.97 CAPITAL:    1641.11 OVERPAY:          0 ResAmount:  175804.20 ResDuration:         94
+NO:   51 YEAR:   5 MONTH:    3 DATE:   2025-02-10 RATE:    2129.08 INTEREST:     483.46 CAPITAL:    1645.62 OVERPAY:          0 ResAmount:  174158.58 ResDuration:         93
+NO:   52 YEAR:   5 MONTH:    4 DATE:   2025-03-10 RATE:    2129.08 INTEREST:     478.94 CAPITAL:    1650.14 OVERPAY:          0 ResAmount:  172508.44 ResDuration:         92
+NO:   53 YEAR:   5 MONTH:    5 DATE:   2025-04-10 RATE:    2129.08 INTEREST:     474.40 CAPITAL:    1654.68 OVERPAY:          0 ResAmount:  170853.76 ResDuration:         91
+NO:   54 YEAR:   5 MONTH:    6 DATE:   2025-05-10 RATE:    2129.08 INTEREST:     469.85 CAPITAL:    1659.23 OVERPAY:          0 ResAmount:  169194.53 ResDuration:         90
+NO:   55 YEAR:   5 MONTH:    7 DATE:   2025-06-10 RATE:    2129.08 INTEREST:     465.28 CAPITAL:    1663.80 OVERPAY:          0 ResAmount:  167530.73 ResDuration:         89
+NO:   56 YEAR:   5 MONTH:    8 DATE:   2025-07-10 RATE:    2129.08 INTEREST:     460.71 CAPITAL:    1668.37 OVERPAY:          0 ResAmount:  165862.36 ResDuration:         88
+NO:   57 YEAR:   5 MONTH:    9 DATE:   2025-08-10 RATE:    2129.08 INTEREST:     456.12 CAPITAL:    1672.96 OVERPAY:          0 ResAmount:  164189.40 ResDuration:         87
+NO:   58 YEAR:   5 MONTH:   10 DATE:   2025-09-10 RATE:    2129.08 INTEREST:     451.52 CAPITAL:    1677.56 OVERPAY:          0 ResAmount:  162511.84 ResDuration:         86
+NO:   59 YEAR:   5 MONTH:   11 DATE:   2025-10-10 RATE:    2129.08 INTEREST:     446.91 CAPITAL:    1682.17 OVERPAY:          0 ResAmount:  160829.67 ResDuration:         85
+NO:   60 YEAR:   5 MONTH:   12 DATE:   2025-11-10 RATE:    2129.08 INTEREST:     442.28 CAPITAL:    1686.80 OVERPAY:          0 ResAmount:  159142.87 ResDuration:         84
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   61 YEAR:   6 MONTH:    1 DATE:   2025-12-10 RATE:    2129.08 INTEREST:     437.64 CAPITAL:    1691.44 OVERPAY:          0 ResAmount:  157451.43 ResDuration:         83
+NO:   62 YEAR:   6 MONTH:    2 DATE:   2026-01-10 RATE:    2129.08 INTEREST:     432.99 CAPITAL:    1696.09 OVERPAY:          0 ResAmount:  155755.34 ResDuration:         82
+NO:   63 YEAR:   6 MONTH:    3 DATE:   2026-02-10 RATE:    2129.08 INTEREST:     428.33 CAPITAL:    1700.75 OVERPAY:          0 ResAmount:  154054.59 ResDuration:         81
+NO:   64 YEAR:   6 MONTH:    4 DATE:   2026-03-10 RATE:    2129.08 INTEREST:     423.65 CAPITAL:    1705.43 OVERPAY:          0 ResAmount:  152349.16 ResDuration:         80
+NO:   65 YEAR:   6 MONTH:    5 DATE:   2026-04-10 RATE:    2129.08 INTEREST:     418.96 CAPITAL:    1710.12 OVERPAY:          0 ResAmount:  150639.04 ResDuration:         79
+NO:   66 YEAR:   6 MONTH:    6 DATE:   2026-05-10 RATE:    2129.08 INTEREST:     414.26 CAPITAL:    1714.82 OVERPAY:          0 ResAmount:  148924.22 ResDuration:         78
+NO:   67 YEAR:   6 MONTH:    7 DATE:   2026-06-10 RATE:    2129.08 INTEREST:     409.54 CAPITAL:    1719.54 OVERPAY:          0 ResAmount:  147204.68 ResDuration:         77
+NO:   68 YEAR:   6 MONTH:    8 DATE:   2026-07-10 RATE:    2129.08 INTEREST:     404.81 CAPITAL:    1724.27 OVERPAY:          0 ResAmount:  145480.41 ResDuration:         76
+NO:   69 YEAR:   6 MONTH:    9 DATE:   2026-08-10 RATE:    2129.08 INTEREST:     400.07 CAPITAL:    1729.01 OVERPAY:          0 ResAmount:  143751.40 ResDuration:         75
+NO:   70 YEAR:   6 MONTH:   10 DATE:   2026-09-10 RATE:    2129.08 INTEREST:     395.32 CAPITAL:    1733.76 OVERPAY:          0 ResAmount:  142017.64 ResDuration:         74
+NO:   71 YEAR:   6 MONTH:   11 DATE:   2026-10-10 RATE:    2129.08 INTEREST:     390.55 CAPITAL:    1738.53 OVERPAY:          0 ResAmount:  140279.11 ResDuration:         73
+NO:   72 YEAR:   6 MONTH:   12 DATE:   2026-11-10 RATE:    2129.08 INTEREST:     385.77 CAPITAL:    1743.31 OVERPAY:          0 ResAmount:  138535.80 ResDuration:         72
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   73 YEAR:   7 MONTH:    1 DATE:   2026-12-10 RATE:    2129.08 INTEREST:     380.97 CAPITAL:    1748.11 OVERPAY:          0 ResAmount:  136787.69 ResDuration:         71
+NO:   74 YEAR:   7 MONTH:    2 DATE:   2027-01-10 RATE:    2129.08 INTEREST:     376.17 CAPITAL:    1752.91 OVERPAY:          0 ResAmount:  135034.78 ResDuration:         70
+NO:   75 YEAR:   7 MONTH:    3 DATE:   2027-02-10 RATE:    2129.08 INTEREST:     371.35 CAPITAL:    1757.73 OVERPAY:          0 ResAmount:  133277.05 ResDuration:         69
+NO:   76 YEAR:   7 MONTH:    4 DATE:   2027-03-10 RATE:    2129.08 INTEREST:     366.51 CAPITAL:    1762.57 OVERPAY:          0 ResAmount:  131514.48 ResDuration:         68
+NO:   77 YEAR:   7 MONTH:    5 DATE:   2027-04-10 RATE:    2129.08 INTEREST:     361.66 CAPITAL:    1767.42 OVERPAY:          0 ResAmount:  129747.06 ResDuration:         67
+NO:   78 YEAR:   7 MONTH:    6 DATE:   2027-05-10 RATE:    2129.08 INTEREST:     356.80 CAPITAL:    1772.28 OVERPAY:          0 ResAmount:  127974.78 ResDuration:         66
+NO:   79 YEAR:   7 MONTH:    7 DATE:   2027-06-10 RATE:    2129.08 INTEREST:     351.93 CAPITAL:    1777.15 OVERPAY:          0 ResAmount:  126197.63 ResDuration:         65
+NO:   80 YEAR:   7 MONTH:    8 DATE:   2027-07-10 RATE:    2129.08 INTEREST:     347.04 CAPITAL:    1782.04 OVERPAY:          0 ResAmount:  124415.59 ResDuration:         64
+NO:   81 YEAR:   7 MONTH:    9 DATE:   2027-08-10 RATE:    2129.08 INTEREST:     342.14 CAPITAL:    1786.94 OVERPAY:          0 ResAmount:  122628.65 ResDuration:         63
+NO:   82 YEAR:   7 MONTH:   10 DATE:   2027-09-10 RATE:    2129.08 INTEREST:     337.23 CAPITAL:    1791.85 OVERPAY:          0 ResAmount:  120836.80 ResDuration:         62
+NO:   83 YEAR:   7 MONTH:   11 DATE:   2027-10-10 RATE:    2129.08 INTEREST:     332.30 CAPITAL:    1796.78 OVERPAY:          0 ResAmount:  119040.02 ResDuration:         61
+NO:   84 YEAR:   7 MONTH:   12 DATE:   2027-11-10 RATE:    2129.08 INTEREST:     327.36 CAPITAL:    1801.72 OVERPAY:          0 ResAmount:  117238.30 ResDuration:         60
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   85 YEAR:   8 MONTH:    1 DATE:   2027-12-10 RATE:    2129.08 INTEREST:     322.41 CAPITAL:    1806.67 OVERPAY:          0 ResAmount:  115431.63 ResDuration:         59
+NO:   86 YEAR:   8 MONTH:    2 DATE:   2028-01-10 RATE:    2129.08 INTEREST:     317.44 CAPITAL:    1811.64 OVERPAY:          0 ResAmount:  113619.99 ResDuration:         58
+NO:   87 YEAR:   8 MONTH:    3 DATE:   2028-02-10 RATE:    2129.08 INTEREST:     312.45 CAPITAL:    1816.63 OVERPAY:          0 ResAmount:  111803.36 ResDuration:         57
+NO:   88 YEAR:   8 MONTH:    4 DATE:   2028-03-10 RATE:    2129.08 INTEREST:     307.46 CAPITAL:    1821.62 OVERPAY:          0 ResAmount:  109981.74 ResDuration:         56
+NO:   89 YEAR:   8 MONTH:    5 DATE:   2028-04-10 RATE:    2129.08 INTEREST:     302.45 CAPITAL:    1826.63 OVERPAY:          0 ResAmount:  108155.11 ResDuration:         55
+NO:   90 YEAR:   8 MONTH:    6 DATE:   2028-05-10 RATE:    2129.08 INTEREST:     297.43 CAPITAL:    1831.65 OVERPAY:          0 ResAmount:  106323.46 ResDuration:         54
+NO:   91 YEAR:   8 MONTH:    7 DATE:   2028-06-10 RATE:    2129.08 INTEREST:     292.39 CAPITAL:    1836.69 OVERPAY:          0 ResAmount:  104486.77 ResDuration:         53
+NO:   92 YEAR:   8 MONTH:    8 DATE:   2028-07-10 RATE:    2129.08 INTEREST:     287.34 CAPITAL:    1841.74 OVERPAY:          0 ResAmount:  102645.03 ResDuration:         52
+NO:   93 YEAR:   8 MONTH:    9 DATE:   2028-08-10 RATE:    2129.08 INTEREST:     282.27 CAPITAL:    1846.81 OVERPAY:          0 ResAmount:  100798.22 ResDuration:         51
+NO:   94 YEAR:   8 MONTH:   10 DATE:   2028-09-10 RATE:    2129.08 INTEREST:     277.20 CAPITAL:    1851.88 OVERPAY:          0 ResAmount:   98946.34 ResDuration:         50
+NO:   95 YEAR:   8 MONTH:   11 DATE:   2028-10-10 RATE:    2129.08 INTEREST:     272.10 CAPITAL:    1856.98 OVERPAY:          0 ResAmount:   97089.36 ResDuration:         49
+NO:   96 YEAR:   8 MONTH:   12 DATE:   2028-11-10 RATE:    2129.08 INTEREST:     267.00 CAPITAL:    1862.08 OVERPAY:          0 ResAmount:   95227.28 ResDuration:         48
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   97 YEAR:   9 MONTH:    1 DATE:   2028-12-10 RATE:    2129.08 INTEREST:     261.88 CAPITAL:    1867.20 OVERPAY:          0 ResAmount:   93360.08 ResDuration:         47
+NO:   98 YEAR:   9 MONTH:    2 DATE:   2029-01-10 RATE:    2129.08 INTEREST:     256.74 CAPITAL:    1872.34 OVERPAY:          0 ResAmount:   91487.74 ResDuration:         46
+NO:   99 YEAR:   9 MONTH:    3 DATE:   2029-02-10 RATE:    2129.08 INTEREST:     251.59 CAPITAL:    1877.49 OVERPAY:          0 ResAmount:   89610.25 ResDuration:         45
+NO:  100 YEAR:   9 MONTH:    4 DATE:   2029-03-10 RATE:    2129.08 INTEREST:     246.43 CAPITAL:    1882.65 OVERPAY:          0 ResAmount:   87727.60 ResDuration:         44
+NO:  101 YEAR:   9 MONTH:    5 DATE:   2029-04-10 RATE:    2129.08 INTEREST:     241.25 CAPITAL:    1887.83 OVERPAY:          0 ResAmount:   85839.77 ResDuration:         43
+NO:  102 YEAR:   9 MONTH:    6 DATE:   2029-05-10 RATE:    2129.08 INTEREST:     236.06 CAPITAL:    1893.02 OVERPAY:          0 ResAmount:   83946.75 ResDuration:         42
+NO:  103 YEAR:   9 MONTH:    7 DATE:   2029-06-10 RATE:    2129.08 INTEREST:     230.85 CAPITAL:    1898.23 OVERPAY:          0 ResAmount:   82048.52 ResDuration:         41
+NO:  104 YEAR:   9 MONTH:    8 DATE:   2029-07-10 RATE:    2129.08 INTEREST:     225.63 CAPITAL:    1903.45 OVERPAY:          0 ResAmount:   80145.07 ResDuration:         40
+NO:  105 YEAR:   9 MONTH:    9 DATE:   2029-08-10 RATE:    2129.08 INTEREST:     220.40 CAPITAL:    1908.68 OVERPAY:          0 ResAmount:   78236.39 ResDuration:         39
+NO:  106 YEAR:   9 MONTH:   10 DATE:   2029-09-10 RATE:    2129.08 INTEREST:     215.15 CAPITAL:    1913.93 OVERPAY:          0 ResAmount:   76322.46 ResDuration:         38
+NO:  107 YEAR:   9 MONTH:   11 DATE:   2029-10-10 RATE:    2129.08 INTEREST:     209.89 CAPITAL:    1919.19 OVERPAY:          0 ResAmount:   74403.27 ResDuration:         37
+NO:  108 YEAR:   9 MONTH:   12 DATE:   2029-11-10 RATE:    2129.08 INTEREST:     204.61 CAPITAL:    1924.47 OVERPAY:          0 ResAmount:   72478.80 ResDuration:         36
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  109 YEAR:  10 MONTH:    1 DATE:   2029-12-10 RATE:    2129.08 INTEREST:     199.32 CAPITAL:    1929.76 OVERPAY:          0 ResAmount:   70549.04 ResDuration:         35
+NO:  110 YEAR:  10 MONTH:    2 DATE:   2030-01-10 RATE:    2129.08 INTEREST:     194.01 CAPITAL:    1935.07 OVERPAY:          0 ResAmount:   68613.97 ResDuration:         34
+NO:  111 YEAR:  10 MONTH:    3 DATE:   2030-02-10 RATE:    2129.08 INTEREST:     188.69 CAPITAL:    1940.39 OVERPAY:          0 ResAmount:   66673.58 ResDuration:         33
+NO:  112 YEAR:  10 MONTH:    4 DATE:   2030-03-10 RATE:    2129.08 INTEREST:     183.35 CAPITAL:    1945.73 OVERPAY:          0 ResAmount:   64727.85 ResDuration:         32
+NO:  113 YEAR:  10 MONTH:    5 DATE:   2030-04-10 RATE:    2129.08 INTEREST:     178.00 CAPITAL:    1951.08 OVERPAY:          0 ResAmount:   62776.77 ResDuration:         31
+NO:  114 YEAR:  10 MONTH:    6 DATE:   2030-05-10 RATE:    2129.08 INTEREST:     172.64 CAPITAL:    1956.44 OVERPAY:          0 ResAmount:   60820.33 ResDuration:         30
+NO:  115 YEAR:  10 MONTH:    7 DATE:   2030-06-10 RATE:    2129.08 INTEREST:     167.26 CAPITAL:    1961.82 OVERPAY:          0 ResAmount:   58858.51 ResDuration:         29
+NO:  116 YEAR:  10 MONTH:    8 DATE:   2030-07-10 RATE:    2129.08 INTEREST:     161.86 CAPITAL:    1967.22 OVERPAY:          0 ResAmount:   56891.29 ResDuration:         28
+NO:  117 YEAR:  10 MONTH:    9 DATE:   2030-08-10 RATE:    2129.08 INTEREST:     156.45 CAPITAL:    1972.63 OVERPAY:          0 ResAmount:   54918.66 ResDuration:         27
+NO:  118 YEAR:  10 MONTH:   10 DATE:   2030-09-10 RATE:    2129.08 INTEREST:     151.03 CAPITAL:    1978.05 OVERPAY:          0 ResAmount:   52940.61 ResDuration:         26
+NO:  119 YEAR:  10 MONTH:   11 DATE:   2030-10-10 RATE:    2129.08 INTEREST:     145.59 CAPITAL:    1983.49 OVERPAY:          0 ResAmount:   50957.12 ResDuration:         25
+NO:  120 YEAR:  10 MONTH:   12 DATE:   2030-11-10 RATE:    2129.08 INTEREST:     140.13 CAPITAL:    1988.95 OVERPAY:          0 ResAmount:   48968.17 ResDuration:         24
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  121 YEAR:  11 MONTH:    1 DATE:   2030-12-10 RATE:    2129.08 INTEREST:     134.66 CAPITAL:    1994.42 OVERPAY:          0 ResAmount:   46973.75 ResDuration:         23
+NO:  122 YEAR:  11 MONTH:    2 DATE:   2031-01-10 RATE:    2129.08 INTEREST:     129.18 CAPITAL:    1999.90 OVERPAY:          0 ResAmount:   44973.85 ResDuration:         22
+NO:  123 YEAR:  11 MONTH:    3 DATE:   2031-02-10 RATE:    2129.08 INTEREST:     123.68 CAPITAL:    2005.40 OVERPAY:          0 ResAmount:   42968.45 ResDuration:         21
+NO:  124 YEAR:  11 MONTH:    4 DATE:   2031-03-10 RATE:    2129.08 INTEREST:     118.16 CAPITAL:    2010.92 OVERPAY:          0 ResAmount:   40957.53 ResDuration:         20
+NO:  125 YEAR:  11 MONTH:    5 DATE:   2031-04-10 RATE:    2129.08 INTEREST:     112.63 CAPITAL:    2016.45 OVERPAY:          0 ResAmount:   38941.08 ResDuration:         19
+NO:  126 YEAR:  11 MONTH:    6 DATE:   2031-05-10 RATE:    2129.08 INTEREST:     107.09 CAPITAL:    2021.99 OVERPAY:          0 ResAmount:   36919.09 ResDuration:         18
+NO:  127 YEAR:  11 MONTH:    7 DATE:   2031-06-10 RATE:    2129.08 INTEREST:     101.53 CAPITAL:    2027.55 OVERPAY:          0 ResAmount:   34891.54 ResDuration:         17
+NO:  128 YEAR:  11 MONTH:    8 DATE:   2031-07-10 RATE:    2129.08 INTEREST:      95.95 CAPITAL:    2033.13 OVERPAY:          0 ResAmount:   32858.41 ResDuration:         16
+NO:  129 YEAR:  11 MONTH:    9 DATE:   2031-08-10 RATE:    2129.08 INTEREST:      90.36 CAPITAL:    2038.72 OVERPAY:          0 ResAmount:   30819.69 ResDuration:         15
+NO:  130 YEAR:  11 MONTH:   10 DATE:   2031-09-10 RATE:    2129.08 INTEREST:      84.75 CAPITAL:    2044.33 OVERPAY:          0 ResAmount:   28775.36 ResDuration:         14
+NO:  131 YEAR:  11 MONTH:   11 DATE:   2031-10-10 RATE:    2129.08 INTEREST:      79.13 CAPITAL:    2049.95 OVERPAY:          0 ResAmount:   26725.41 ResDuration:         13
+NO:  132 YEAR:  11 MONTH:   12 DATE:   2031-11-10 RATE:    2129.08 INTEREST:      73.49 CAPITAL:    2055.59 OVERPAY:          0 ResAmount:   24669.82 ResDuration:         12
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  133 YEAR:  12 MONTH:    1 DATE:   2031-12-10 RATE:    2129.08 INTEREST:      67.84 CAPITAL:    2061.24 OVERPAY:          0 ResAmount:   22608.58 ResDuration:         11
+NO:  134 YEAR:  12 MONTH:    2 DATE:   2032-01-10 RATE:    2129.08 INTEREST:      62.17 CAPITAL:    2066.91 OVERPAY:          0 ResAmount:   20541.67 ResDuration:         10
+NO:  135 YEAR:  12 MONTH:    3 DATE:   2032-02-10 RATE:    2129.08 INTEREST:      56.49 CAPITAL:    2072.59 OVERPAY:          0 ResAmount:   18469.08 ResDuration:          9
+NO:  136 YEAR:  12 MONTH:    4 DATE:   2032-03-10 RATE:    2129.08 INTEREST:      50.79 CAPITAL:    2078.29 OVERPAY:          0 ResAmount:   16390.79 ResDuration:          8
+NO:  137 YEAR:  12 MONTH:    5 DATE:   2032-04-10 RATE:    2129.08 INTEREST:      45.07 CAPITAL:    2084.01 OVERPAY:          0 ResAmount:   14306.78 ResDuration:          7
+NO:  138 YEAR:  12 MONTH:    6 DATE:   2032-05-10 RATE:    2129.08 INTEREST:      39.34 CAPITAL:    2089.74 OVERPAY:          0 ResAmount:   12217.04 ResDuration:          6
+NO:  139 YEAR:  12 MONTH:    7 DATE:   2032-06-10 RATE:    2129.08 INTEREST:      33.60 CAPITAL:    2095.48 OVERPAY:          0 ResAmount:   10121.56 ResDuration:          5
+NO:  140 YEAR:  12 MONTH:    8 DATE:   2032-07-10 RATE:    2129.08 INTEREST:      27.83 CAPITAL:    2101.25 OVERPAY:          0 ResAmount:    8020.31 ResDuration:          4
+NO:  141 YEAR:  12 MONTH:    9 DATE:   2032-08-10 RATE:    2129.08 INTEREST:      22.06 CAPITAL:    2107.02 OVERPAY:          0 ResAmount:    5913.29 ResDuration:          3
+NO:  142 YEAR:  12 MONTH:   10 DATE:   2032-09-10 RATE:    2129.08 INTEREST:      16.26 CAPITAL:    2112.82 OVERPAY:          0 ResAmount:    3800.47 ResDuration:          2
+NO:  143 YEAR:  12 MONTH:   11 DATE:   2032-10-10 RATE:    2129.08 INTEREST:      10.45 CAPITAL:    2118.63 OVERPAY:          0 ResAmount:    1681.84 ResDuration:          1
+NO:  144 YEAR:  12 MONTH:   12 DATE:   2032-11-10 RATE:    1686.47 INTEREST:       4.63 CAPITAL:    1681.84 OVERPAY:          0 ResAmount:       0.00 ResDuration:          0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LOAN AMOUNT: 571521.99 EUR
+LOAN TERM: 240 MONTHS
+INTEREST: 0.0843 %
+OVERPAYMENTS START MONTH: 10 MONTH
+OVERPAYMENT - REDUCE PERIOD
+SCHEME FOR MAKING OVERPAYMENTS:
+MONTH: 15, AMOUNT: 10000 EUR
+MONTH: 20, AMOUNT: 10000 EUR
+MONTH: 25, AMOUNT: 10000 EUR
+MONTH: 30, AMOUNT: 10000 EUR
+MONTH: 35, AMOUNT: 10000 EUR
+
+TOTAL INTEREST: 466509.53 EUR
+COMMISSION FOR OVERPAYMENT: 5000.00 EUR
+TOTAL LOSSES: 471509.53 EUR
+TOTAL CAPITAL: 571521.99 EUR
+
+NO:    1 YEAR:   1 MONTH:    1 DATE:   2020-01-01 RATE:    4934.51 INTEREST:    4014.94 CAPITAL:     919.57 OVERPAY:          0 ResAmount:  570602.42 ResDuration:        239
+NO:    2 YEAR:   1 MONTH:    2 DATE:   2020-02-01 RATE:    4934.51 INTEREST:    4008.48 CAPITAL:     926.03 OVERPAY:          0 ResAmount:  569676.39 ResDuration:        238
+NO:    3 YEAR:   1 MONTH:    3 DATE:   2020-03-01 RATE:    4934.51 INTEREST:    4001.98 CAPITAL:     932.53 OVERPAY:          0 ResAmount:  568743.86 ResDuration:        237
+NO:    4 YEAR:   1 MONTH:    4 DATE:   2020-04-01 RATE:    4934.51 INTEREST:    3995.43 CAPITAL:     939.08 OVERPAY:          0 ResAmount:  567804.78 ResDuration:        236
+NO:    5 YEAR:   1 MONTH:    5 DATE:   2020-05-01 RATE:    4934.51 INTEREST:    3988.83 CAPITAL:     945.68 OVERPAY:          0 ResAmount:  566859.10 ResDuration:        235
+NO:    6 YEAR:   1 MONTH:    6 DATE:   2020-06-01 RATE:    4934.51 INTEREST:    3982.19 CAPITAL:     952.32 OVERPAY:          0 ResAmount:  565906.78 ResDuration:        234
+NO:    7 YEAR:   1 MONTH:    7 DATE:   2020-07-01 RATE:    4934.51 INTEREST:    3975.50 CAPITAL:     959.01 OVERPAY:          0 ResAmount:  564947.77 ResDuration:        233
+NO:    8 YEAR:   1 MONTH:    8 DATE:   2020-08-01 RATE:    4934.51 INTEREST:    3968.76 CAPITAL:     965.75 OVERPAY:          0 ResAmount:  563982.02 ResDuration:        232
+NO:    9 YEAR:   1 MONTH:    9 DATE:   2020-09-01 RATE:    4934.51 INTEREST:    3961.97 CAPITAL:     972.54 OVERPAY:          0 ResAmount:  563009.48 ResDuration:        231
+NO:   10 YEAR:   1 MONTH:   10 DATE:   2020-10-01 RATE:    4934.51 INTEREST:    3955.14 CAPITAL:     979.37 OVERPAY:          0 ResAmount:  562030.11 ResDuration:        230
+NO:   11 YEAR:   1 MONTH:   11 DATE:   2020-11-01 RATE:    4934.51 INTEREST:    3948.26 CAPITAL:     986.25 OVERPAY:          0 ResAmount:  561043.86 ResDuration:        229
+NO:   12 YEAR:   1 MONTH:   12 DATE:   2020-12-01 RATE:    4934.51 INTEREST:    3941.33 CAPITAL:     993.18 OVERPAY:          0 ResAmount:  560050.68 ResDuration:        228
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   13 YEAR:   2 MONTH:    1 DATE:   2021-01-01 RATE:    4934.51 INTEREST:    3934.36 CAPITAL:    1000.15 OVERPAY:          0 ResAmount:  559050.53 ResDuration:        227
+NO:   14 YEAR:   2 MONTH:    2 DATE:   2021-02-01 RATE:    4934.51 INTEREST:    3927.33 CAPITAL:    1007.18 OVERPAY:          0 ResAmount:  558043.35 ResDuration:        226
+NO:   15 YEAR:   2 MONTH:    3 DATE:   2021-03-01 RATE:    4934.51 INTEREST:    3920.25 CAPITAL:    1014.26 OVERPAY:      10000 ResAmount:  547029.09 ResDuration:        216
+NO:   16 YEAR:   2 MONTH:    4 DATE:   2021-04-01 RATE:    4934.51 INTEREST:    3842.88 CAPITAL:    1091.63 OVERPAY:          0 ResAmount:  545937.46 ResDuration:        215
+NO:   17 YEAR:   2 MONTH:    5 DATE:   2021-05-01 RATE:    4934.51 INTEREST:    3835.21 CAPITAL:    1099.30 OVERPAY:          0 ResAmount:  544838.16 ResDuration:        214
+NO:   18 YEAR:   2 MONTH:    6 DATE:   2021-06-01 RATE:    4934.51 INTEREST:    3827.49 CAPITAL:    1107.02 OVERPAY:          0 ResAmount:  543731.14 ResDuration:        213
+NO:   19 YEAR:   2 MONTH:    7 DATE:   2021-07-01 RATE:    4934.51 INTEREST:    3819.71 CAPITAL:    1114.80 OVERPAY:          0 ResAmount:  542616.34 ResDuration:        212
+NO:   20 YEAR:   2 MONTH:    8 DATE:   2021-08-01 RATE:    4934.51 INTEREST:    3811.88 CAPITAL:    1122.63 OVERPAY:      10000 ResAmount:  531493.71 ResDuration:        202
+NO:   21 YEAR:   2 MONTH:    9 DATE:   2021-09-01 RATE:    4934.51 INTEREST:    3733.74 CAPITAL:    1200.77 OVERPAY:          0 ResAmount:  530292.94 ResDuration:        201
+NO:   22 YEAR:   2 MONTH:   10 DATE:   2021-10-01 RATE:    4934.51 INTEREST:    3725.31 CAPITAL:    1209.20 OVERPAY:          0 ResAmount:  529083.74 ResDuration:        200
+NO:   23 YEAR:   2 MONTH:   11 DATE:   2021-11-01 RATE:    4934.51 INTEREST:    3716.81 CAPITAL:    1217.70 OVERPAY:          0 ResAmount:  527866.04 ResDuration:        199
+NO:   24 YEAR:   2 MONTH:   12 DATE:   2021-12-01 RATE:    4934.51 INTEREST:    3708.26 CAPITAL:    1226.25 OVERPAY:          0 ResAmount:  526639.79 ResDuration:        198
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   25 YEAR:   3 MONTH:    1 DATE:   2022-01-01 RATE:    4934.51 INTEREST:    3699.64 CAPITAL:    1234.87 OVERPAY:      10000 ResAmount:  515404.92 ResDuration:        190
+NO:   26 YEAR:   3 MONTH:    2 DATE:   2022-02-01 RATE:    4934.51 INTEREST:    3620.72 CAPITAL:    1313.79 OVERPAY:          0 ResAmount:  514091.13 ResDuration:        189
+NO:   27 YEAR:   3 MONTH:    3 DATE:   2022-03-01 RATE:    4934.51 INTEREST:    3611.49 CAPITAL:    1323.02 OVERPAY:          0 ResAmount:  512768.11 ResDuration:        188
+NO:   28 YEAR:   3 MONTH:    4 DATE:   2022-04-01 RATE:    4934.51 INTEREST:    3602.20 CAPITAL:    1332.31 OVERPAY:          0 ResAmount:  511435.80 ResDuration:        187
+NO:   29 YEAR:   3 MONTH:    5 DATE:   2022-05-01 RATE:    4934.51 INTEREST:    3592.84 CAPITAL:    1341.67 OVERPAY:          0 ResAmount:  510094.13 ResDuration:        186
+NO:   30 YEAR:   3 MONTH:    6 DATE:   2022-06-01 RATE:    4934.51 INTEREST:    3583.41 CAPITAL:    1351.10 OVERPAY:      10000 ResAmount:  498743.03 ResDuration:        177
+NO:   31 YEAR:   3 MONTH:    7 DATE:   2022-07-01 RATE:    4934.51 INTEREST:    3503.67 CAPITAL:    1430.84 OVERPAY:          0 ResAmount:  497312.19 ResDuration:        176
+NO:   32 YEAR:   3 MONTH:    8 DATE:   2022-08-01 RATE:    4934.51 INTEREST:    3493.62 CAPITAL:    1440.89 OVERPAY:          0 ResAmount:  495871.30 ResDuration:        175
+NO:   33 YEAR:   3 MONTH:    9 DATE:   2022-09-01 RATE:    4934.51 INTEREST:    3483.50 CAPITAL:    1451.01 OVERPAY:          0 ResAmount:  494420.29 ResDuration:        174
+NO:   34 YEAR:   3 MONTH:   10 DATE:   2022-10-01 RATE:    4934.51 INTEREST:    3473.30 CAPITAL:    1461.21 OVERPAY:          0 ResAmount:  492959.08 ResDuration:        173
+NO:   35 YEAR:   3 MONTH:   11 DATE:   2022-11-01 RATE:    4934.51 INTEREST:    3463.04 CAPITAL:    1471.47 OVERPAY:      10000 ResAmount:  481487.61 ResDuration:        166
+NO:   36 YEAR:   3 MONTH:   12 DATE:   2022-12-01 RATE:    4934.51 INTEREST:    3382.45 CAPITAL:    1552.06 OVERPAY:          0 ResAmount:  479935.55 ResDuration:        165
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   37 YEAR:   4 MONTH:    1 DATE:   2023-01-01 RATE:    4934.51 INTEREST:    3371.55 CAPITAL:    1562.96 OVERPAY:          0 ResAmount:  478372.59 ResDuration:        164
+NO:   38 YEAR:   4 MONTH:    2 DATE:   2023-02-01 RATE:    4934.51 INTEREST:    3360.57 CAPITAL:    1573.94 OVERPAY:          0 ResAmount:  476798.65 ResDuration:        163
+NO:   39 YEAR:   4 MONTH:    3 DATE:   2023-03-01 RATE:    4934.51 INTEREST:    3349.51 CAPITAL:    1585.00 OVERPAY:          0 ResAmount:  475213.65 ResDuration:        162
+NO:   40 YEAR:   4 MONTH:    4 DATE:   2023-04-01 RATE:    4934.51 INTEREST:    3338.38 CAPITAL:    1596.13 OVERPAY:          0 ResAmount:  473617.52 ResDuration:        161
+NO:   41 YEAR:   4 MONTH:    5 DATE:   2023-05-01 RATE:    4934.51 INTEREST:    3327.16 CAPITAL:    1607.35 OVERPAY:          0 ResAmount:  472010.17 ResDuration:        160
+NO:   42 YEAR:   4 MONTH:    6 DATE:   2023-06-01 RATE:    4934.51 INTEREST:    3315.87 CAPITAL:    1618.64 OVERPAY:          0 ResAmount:  470391.53 ResDuration:        159
+NO:   43 YEAR:   4 MONTH:    7 DATE:   2023-07-01 RATE:    4934.51 INTEREST:    3304.50 CAPITAL:    1630.01 OVERPAY:          0 ResAmount:  468761.52 ResDuration:        158
+NO:   44 YEAR:   4 MONTH:    8 DATE:   2023-08-01 RATE:    4934.51 INTEREST:    3293.05 CAPITAL:    1641.46 OVERPAY:          0 ResAmount:  467120.06 ResDuration:        157
+NO:   45 YEAR:   4 MONTH:    9 DATE:   2023-09-01 RATE:    4934.51 INTEREST:    3281.52 CAPITAL:    1652.99 OVERPAY:          0 ResAmount:  465467.07 ResDuration:        156
+NO:   46 YEAR:   4 MONTH:   10 DATE:   2023-10-01 RATE:    4934.51 INTEREST:    3269.91 CAPITAL:    1664.60 OVERPAY:          0 ResAmount:  463802.47 ResDuration:        155
+NO:   47 YEAR:   4 MONTH:   11 DATE:   2023-11-01 RATE:    4934.51 INTEREST:    3258.21 CAPITAL:    1676.30 OVERPAY:          0 ResAmount:  462126.17 ResDuration:        154
+NO:   48 YEAR:   4 MONTH:   12 DATE:   2023-12-01 RATE:    4934.51 INTEREST:    3246.44 CAPITAL:    1688.07 OVERPAY:          0 ResAmount:  460438.10 ResDuration:        153
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   49 YEAR:   5 MONTH:    1 DATE:   2024-01-01 RATE:    4934.51 INTEREST:    3234.58 CAPITAL:    1699.93 OVERPAY:          0 ResAmount:  458738.17 ResDuration:        152
+NO:   50 YEAR:   5 MONTH:    2 DATE:   2024-02-01 RATE:    4934.51 INTEREST:    3222.64 CAPITAL:    1711.87 OVERPAY:          0 ResAmount:  457026.30 ResDuration:        151
+NO:   51 YEAR:   5 MONTH:    3 DATE:   2024-03-01 RATE:    4934.51 INTEREST:    3210.61 CAPITAL:    1723.90 OVERPAY:          0 ResAmount:  455302.40 ResDuration:        150
+NO:   52 YEAR:   5 MONTH:    4 DATE:   2024-04-01 RATE:    4934.51 INTEREST:    3198.50 CAPITAL:    1736.01 OVERPAY:          0 ResAmount:  453566.39 ResDuration:        149
+NO:   53 YEAR:   5 MONTH:    5 DATE:   2024-05-01 RATE:    4934.51 INTEREST:    3186.30 CAPITAL:    1748.21 OVERPAY:          0 ResAmount:  451818.18 ResDuration:        148
+NO:   54 YEAR:   5 MONTH:    6 DATE:   2024-06-01 RATE:    4934.51 INTEREST:    3174.02 CAPITAL:    1760.49 OVERPAY:          0 ResAmount:  450057.69 ResDuration:        147
+NO:   55 YEAR:   5 MONTH:    7 DATE:   2024-07-01 RATE:    4934.51 INTEREST:    3161.66 CAPITAL:    1772.85 OVERPAY:          0 ResAmount:  448284.84 ResDuration:        146
+NO:   56 YEAR:   5 MONTH:    8 DATE:   2024-08-01 RATE:    4934.51 INTEREST:    3149.20 CAPITAL:    1785.31 OVERPAY:          0 ResAmount:  446499.53 ResDuration:        145
+NO:   57 YEAR:   5 MONTH:    9 DATE:   2024-09-01 RATE:    4934.51 INTEREST:    3136.66 CAPITAL:    1797.85 OVERPAY:          0 ResAmount:  444701.68 ResDuration:        144
+NO:   58 YEAR:   5 MONTH:   10 DATE:   2024-10-01 RATE:    4934.51 INTEREST:    3124.03 CAPITAL:    1810.48 OVERPAY:          0 ResAmount:  442891.20 ResDuration:        143
+NO:   59 YEAR:   5 MONTH:   11 DATE:   2024-11-01 RATE:    4934.51 INTEREST:    3111.31 CAPITAL:    1823.20 OVERPAY:          0 ResAmount:  441068.00 ResDuration:        142
+NO:   60 YEAR:   5 MONTH:   12 DATE:   2024-12-01 RATE:    4934.51 INTEREST:    3098.50 CAPITAL:    1836.01 OVERPAY:          0 ResAmount:  439231.99 ResDuration:        141
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   61 YEAR:   6 MONTH:    1 DATE:   2025-01-01 RATE:    4934.51 INTEREST:    3085.60 CAPITAL:    1848.91 OVERPAY:          0 ResAmount:  437383.08 ResDuration:        140
+NO:   62 YEAR:   6 MONTH:    2 DATE:   2025-02-01 RATE:    4934.51 INTEREST:    3072.62 CAPITAL:    1861.89 OVERPAY:          0 ResAmount:  435521.19 ResDuration:        139
+NO:   63 YEAR:   6 MONTH:    3 DATE:   2025-03-01 RATE:    4934.51 INTEREST:    3059.54 CAPITAL:    1874.97 OVERPAY:          0 ResAmount:  433646.22 ResDuration:        138
+NO:   64 YEAR:   6 MONTH:    4 DATE:   2025-04-01 RATE:    4934.51 INTEREST:    3046.36 CAPITAL:    1888.15 OVERPAY:          0 ResAmount:  431758.07 ResDuration:        137
+NO:   65 YEAR:   6 MONTH:    5 DATE:   2025-05-01 RATE:    4934.51 INTEREST:    3033.10 CAPITAL:    1901.41 OVERPAY:          0 ResAmount:  429856.66 ResDuration:        136
+NO:   66 YEAR:   6 MONTH:    6 DATE:   2025-06-01 RATE:    4934.51 INTEREST:    3019.74 CAPITAL:    1914.77 OVERPAY:          0 ResAmount:  427941.89 ResDuration:        135
+NO:   67 YEAR:   6 MONTH:    7 DATE:   2025-07-01 RATE:    4934.51 INTEREST:    3006.29 CAPITAL:    1928.22 OVERPAY:          0 ResAmount:  426013.67 ResDuration:        134
+NO:   68 YEAR:   6 MONTH:    8 DATE:   2025-08-01 RATE:    4934.51 INTEREST:    2992.75 CAPITAL:    1941.76 OVERPAY:          0 ResAmount:  424071.91 ResDuration:        133
+NO:   69 YEAR:   6 MONTH:    9 DATE:   2025-09-01 RATE:    4934.51 INTEREST:    2979.11 CAPITAL:    1955.40 OVERPAY:          0 ResAmount:  422116.51 ResDuration:        132
+NO:   70 YEAR:   6 MONTH:   10 DATE:   2025-10-01 RATE:    4934.51 INTEREST:    2965.37 CAPITAL:    1969.14 OVERPAY:          0 ResAmount:  420147.37 ResDuration:        131
+NO:   71 YEAR:   6 MONTH:   11 DATE:   2025-11-01 RATE:    4934.51 INTEREST:    2951.54 CAPITAL:    1982.97 OVERPAY:          0 ResAmount:  418164.40 ResDuration:        130
+NO:   72 YEAR:   6 MONTH:   12 DATE:   2025-12-01 RATE:    4934.51 INTEREST:    2937.60 CAPITAL:    1996.91 OVERPAY:          0 ResAmount:  416167.49 ResDuration:        129
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   73 YEAR:   7 MONTH:    1 DATE:   2026-01-01 RATE:    4934.51 INTEREST:    2923.58 CAPITAL:    2010.93 OVERPAY:          0 ResAmount:  414156.56 ResDuration:        128
+NO:   74 YEAR:   7 MONTH:    2 DATE:   2026-02-01 RATE:    4934.51 INTEREST:    2909.45 CAPITAL:    2025.06 OVERPAY:          0 ResAmount:  412131.50 ResDuration:        127
+NO:   75 YEAR:   7 MONTH:    3 DATE:   2026-03-01 RATE:    4934.51 INTEREST:    2895.22 CAPITAL:    2039.29 OVERPAY:          0 ResAmount:  410092.21 ResDuration:        126
+NO:   76 YEAR:   7 MONTH:    4 DATE:   2026-04-01 RATE:    4934.51 INTEREST:    2880.90 CAPITAL:    2053.61 OVERPAY:          0 ResAmount:  408038.60 ResDuration:        125
+NO:   77 YEAR:   7 MONTH:    5 DATE:   2026-05-01 RATE:    4934.51 INTEREST:    2866.47 CAPITAL:    2068.04 OVERPAY:          0 ResAmount:  405970.56 ResDuration:        124
+NO:   78 YEAR:   7 MONTH:    6 DATE:   2026-06-01 RATE:    4934.51 INTEREST:    2851.94 CAPITAL:    2082.57 OVERPAY:          0 ResAmount:  403887.99 ResDuration:        123
+NO:   79 YEAR:   7 MONTH:    7 DATE:   2026-07-01 RATE:    4934.51 INTEREST:    2837.31 CAPITAL:    2097.20 OVERPAY:          0 ResAmount:  401790.79 ResDuration:        122
+NO:   80 YEAR:   7 MONTH:    8 DATE:   2026-08-01 RATE:    4934.51 INTEREST:    2822.58 CAPITAL:    2111.93 OVERPAY:          0 ResAmount:  399678.86 ResDuration:        121
+NO:   81 YEAR:   7 MONTH:    9 DATE:   2026-09-01 RATE:    4934.51 INTEREST:    2807.74 CAPITAL:    2126.77 OVERPAY:          0 ResAmount:  397552.09 ResDuration:        120
+NO:   82 YEAR:   7 MONTH:   10 DATE:   2026-10-01 RATE:    4934.51 INTEREST:    2792.80 CAPITAL:    2141.71 OVERPAY:          0 ResAmount:  395410.38 ResDuration:        119
+NO:   83 YEAR:   7 MONTH:   11 DATE:   2026-11-01 RATE:    4934.51 INTEREST:    2777.76 CAPITAL:    2156.75 OVERPAY:          0 ResAmount:  393253.63 ResDuration:        118
+NO:   84 YEAR:   7 MONTH:   12 DATE:   2026-12-01 RATE:    4934.51 INTEREST:    2762.61 CAPITAL:    2171.90 OVERPAY:          0 ResAmount:  391081.73 ResDuration:        117
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   85 YEAR:   8 MONTH:    1 DATE:   2027-01-01 RATE:    4934.51 INTEREST:    2747.35 CAPITAL:    2187.16 OVERPAY:          0 ResAmount:  388894.57 ResDuration:        116
+NO:   86 YEAR:   8 MONTH:    2 DATE:   2027-02-01 RATE:    4934.51 INTEREST:    2731.98 CAPITAL:    2202.53 OVERPAY:          0 ResAmount:  386692.04 ResDuration:        115
+NO:   87 YEAR:   8 MONTH:    3 DATE:   2027-03-01 RATE:    4934.51 INTEREST:    2716.51 CAPITAL:    2218.00 OVERPAY:          0 ResAmount:  384474.04 ResDuration:        114
+NO:   88 YEAR:   8 MONTH:    4 DATE:   2027-04-01 RATE:    4934.51 INTEREST:    2700.93 CAPITAL:    2233.58 OVERPAY:          0 ResAmount:  382240.46 ResDuration:        113
+NO:   89 YEAR:   8 MONTH:    5 DATE:   2027-05-01 RATE:    4934.51 INTEREST:    2685.24 CAPITAL:    2249.27 OVERPAY:          0 ResAmount:  379991.19 ResDuration:        112
+NO:   90 YEAR:   8 MONTH:    6 DATE:   2027-06-01 RATE:    4934.51 INTEREST:    2669.44 CAPITAL:    2265.07 OVERPAY:          0 ResAmount:  377726.12 ResDuration:        111
+NO:   91 YEAR:   8 MONTH:    7 DATE:   2027-07-01 RATE:    4934.51 INTEREST:    2653.53 CAPITAL:    2280.98 OVERPAY:          0 ResAmount:  375445.14 ResDuration:        110
+NO:   92 YEAR:   8 MONTH:    8 DATE:   2027-08-01 RATE:    4934.51 INTEREST:    2637.50 CAPITAL:    2297.01 OVERPAY:          0 ResAmount:  373148.13 ResDuration:        109
+NO:   93 YEAR:   8 MONTH:    9 DATE:   2027-09-01 RATE:    4934.51 INTEREST:    2621.37 CAPITAL:    2313.14 OVERPAY:          0 ResAmount:  370834.99 ResDuration:        108
+NO:   94 YEAR:   8 MONTH:   10 DATE:   2027-10-01 RATE:    4934.51 INTEREST:    2605.12 CAPITAL:    2329.39 OVERPAY:          0 ResAmount:  368505.60 ResDuration:        107
+NO:   95 YEAR:   8 MONTH:   11 DATE:   2027-11-01 RATE:    4934.51 INTEREST:    2588.75 CAPITAL:    2345.76 OVERPAY:          0 ResAmount:  366159.84 ResDuration:        106
+NO:   96 YEAR:   8 MONTH:   12 DATE:   2027-12-01 RATE:    4934.51 INTEREST:    2572.27 CAPITAL:    2362.24 OVERPAY:          0 ResAmount:  363797.60 ResDuration:        105
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:   97 YEAR:   9 MONTH:    1 DATE:   2028-01-01 RATE:    4934.51 INTEREST:    2555.68 CAPITAL:    2378.83 OVERPAY:          0 ResAmount:  361418.77 ResDuration:        104
+NO:   98 YEAR:   9 MONTH:    2 DATE:   2028-02-01 RATE:    4934.51 INTEREST:    2538.97 CAPITAL:    2395.54 OVERPAY:          0 ResAmount:  359023.23 ResDuration:        103
+NO:   99 YEAR:   9 MONTH:    3 DATE:   2028-03-01 RATE:    4934.51 INTEREST:    2522.14 CAPITAL:    2412.37 OVERPAY:          0 ResAmount:  356610.86 ResDuration:        102
+NO:  100 YEAR:   9 MONTH:    4 DATE:   2028-04-01 RATE:    4934.51 INTEREST:    2505.19 CAPITAL:    2429.32 OVERPAY:          0 ResAmount:  354181.54 ResDuration:        101
+NO:  101 YEAR:   9 MONTH:    5 DATE:   2028-05-01 RATE:    4934.51 INTEREST:    2488.13 CAPITAL:    2446.38 OVERPAY:          0 ResAmount:  351735.16 ResDuration:        100
+NO:  102 YEAR:   9 MONTH:    6 DATE:   2028-06-01 RATE:    4934.51 INTEREST:    2470.94 CAPITAL:    2463.57 OVERPAY:          0 ResAmount:  349271.59 ResDuration:         99
+NO:  103 YEAR:   9 MONTH:    7 DATE:   2028-07-01 RATE:    4934.51 INTEREST:    2453.63 CAPITAL:    2480.88 OVERPAY:          0 ResAmount:  346790.71 ResDuration:         98
+NO:  104 YEAR:   9 MONTH:    8 DATE:   2028-08-01 RATE:    4934.51 INTEREST:    2436.20 CAPITAL:    2498.31 OVERPAY:          0 ResAmount:  344292.40 ResDuration:         97
+NO:  105 YEAR:   9 MONTH:    9 DATE:   2028-09-01 RATE:    4934.51 INTEREST:    2418.65 CAPITAL:    2515.86 OVERPAY:          0 ResAmount:  341776.54 ResDuration:         96
+NO:  106 YEAR:   9 MONTH:   10 DATE:   2028-10-01 RATE:    4934.51 INTEREST:    2400.98 CAPITAL:    2533.53 OVERPAY:          0 ResAmount:  339243.01 ResDuration:         95
+NO:  107 YEAR:   9 MONTH:   11 DATE:   2028-11-01 RATE:    4934.51 INTEREST:    2383.18 CAPITAL:    2551.33 OVERPAY:          0 ResAmount:  336691.68 ResDuration:         94
+NO:  108 YEAR:   9 MONTH:   12 DATE:   2028-12-01 RATE:    4934.51 INTEREST:    2365.26 CAPITAL:    2569.25 OVERPAY:          0 ResAmount:  334122.43 ResDuration:         93
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  109 YEAR:  10 MONTH:    1 DATE:   2029-01-01 RATE:    4934.51 INTEREST:    2347.21 CAPITAL:    2587.30 OVERPAY:          0 ResAmount:  331535.13 ResDuration:         92
+NO:  110 YEAR:  10 MONTH:    2 DATE:   2029-02-01 RATE:    4934.51 INTEREST:    2329.03 CAPITAL:    2605.48 OVERPAY:          0 ResAmount:  328929.65 ResDuration:         91
+NO:  111 YEAR:  10 MONTH:    3 DATE:   2029-03-01 RATE:    4934.51 INTEREST:    2310.73 CAPITAL:    2623.78 OVERPAY:          0 ResAmount:  326305.87 ResDuration:         90
+NO:  112 YEAR:  10 MONTH:    4 DATE:   2029-04-01 RATE:    4934.51 INTEREST:    2292.30 CAPITAL:    2642.21 OVERPAY:          0 ResAmount:  323663.66 ResDuration:         89
+NO:  113 YEAR:  10 MONTH:    5 DATE:   2029-05-01 RATE:    4934.51 INTEREST:    2273.74 CAPITAL:    2660.77 OVERPAY:          0 ResAmount:  321002.89 ResDuration:         88
+NO:  114 YEAR:  10 MONTH:    6 DATE:   2029-06-01 RATE:    4934.51 INTEREST:    2255.05 CAPITAL:    2679.46 OVERPAY:          0 ResAmount:  318323.43 ResDuration:         87
+NO:  115 YEAR:  10 MONTH:    7 DATE:   2029-07-01 RATE:    4934.51 INTEREST:    2236.22 CAPITAL:    2698.29 OVERPAY:          0 ResAmount:  315625.14 ResDuration:         86
+NO:  116 YEAR:  10 MONTH:    8 DATE:   2029-08-01 RATE:    4934.51 INTEREST:    2217.27 CAPITAL:    2717.24 OVERPAY:          0 ResAmount:  312907.90 ResDuration:         85
+NO:  117 YEAR:  10 MONTH:    9 DATE:   2029-09-01 RATE:    4934.51 INTEREST:    2198.18 CAPITAL:    2736.33 OVERPAY:          0 ResAmount:  310171.57 ResDuration:         84
+NO:  118 YEAR:  10 MONTH:   10 DATE:   2029-10-01 RATE:    4934.51 INTEREST:    2178.96 CAPITAL:    2755.55 OVERPAY:          0 ResAmount:  307416.02 ResDuration:         83
+NO:  119 YEAR:  10 MONTH:   11 DATE:   2029-11-01 RATE:    4934.51 INTEREST:    2159.60 CAPITAL:    2774.91 OVERPAY:          0 ResAmount:  304641.11 ResDuration:         82
+NO:  120 YEAR:  10 MONTH:   12 DATE:   2029-12-01 RATE:    4934.51 INTEREST:    2140.10 CAPITAL:    2794.41 OVERPAY:          0 ResAmount:  301846.70 ResDuration:         81
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  121 YEAR:  11 MONTH:    1 DATE:   2030-01-01 RATE:    4934.51 INTEREST:    2120.47 CAPITAL:    2814.04 OVERPAY:          0 ResAmount:  299032.66 ResDuration:         80
+NO:  122 YEAR:  11 MONTH:    2 DATE:   2030-02-01 RATE:    4934.51 INTEREST:    2100.70 CAPITAL:    2833.81 OVERPAY:          0 ResAmount:  296198.85 ResDuration:         79
+NO:  123 YEAR:  11 MONTH:    3 DATE:   2030-03-01 RATE:    4934.51 INTEREST:    2080.80 CAPITAL:    2853.71 OVERPAY:          0 ResAmount:  293345.14 ResDuration:         78
+NO:  124 YEAR:  11 MONTH:    4 DATE:   2030-04-01 RATE:    4934.51 INTEREST:    2060.75 CAPITAL:    2873.76 OVERPAY:          0 ResAmount:  290471.38 ResDuration:         77
+NO:  125 YEAR:  11 MONTH:    5 DATE:   2030-05-01 RATE:    4934.51 INTEREST:    2040.56 CAPITAL:    2893.95 OVERPAY:          0 ResAmount:  287577.43 ResDuration:         76
+NO:  126 YEAR:  11 MONTH:    6 DATE:   2030-06-01 RATE:    4934.51 INTEREST:    2020.23 CAPITAL:    2914.28 OVERPAY:          0 ResAmount:  284663.15 ResDuration:         75
+NO:  127 YEAR:  11 MONTH:    7 DATE:   2030-07-01 RATE:    4934.51 INTEREST:    1999.76 CAPITAL:    2934.75 OVERPAY:          0 ResAmount:  281728.40 ResDuration:         74
+NO:  128 YEAR:  11 MONTH:    8 DATE:   2030-08-01 RATE:    4934.51 INTEREST:    1979.14 CAPITAL:    2955.37 OVERPAY:          0 ResAmount:  278773.03 ResDuration:         73
+NO:  129 YEAR:  11 MONTH:    9 DATE:   2030-09-01 RATE:    4934.51 INTEREST:    1958.38 CAPITAL:    2976.13 OVERPAY:          0 ResAmount:  275796.90 ResDuration:         72
+NO:  130 YEAR:  11 MONTH:   10 DATE:   2030-10-01 RATE:    4934.51 INTEREST:    1937.47 CAPITAL:    2997.04 OVERPAY:          0 ResAmount:  272799.86 ResDuration:         71
+NO:  131 YEAR:  11 MONTH:   11 DATE:   2030-11-01 RATE:    4934.51 INTEREST:    1916.42 CAPITAL:    3018.09 OVERPAY:          0 ResAmount:  269781.77 ResDuration:         70
+NO:  132 YEAR:  11 MONTH:   12 DATE:   2030-12-01 RATE:    4934.51 INTEREST:    1895.22 CAPITAL:    3039.29 OVERPAY:          0 ResAmount:  266742.48 ResDuration:         69
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  133 YEAR:  12 MONTH:    1 DATE:   2031-01-01 RATE:    4934.51 INTEREST:    1873.87 CAPITAL:    3060.64 OVERPAY:          0 ResAmount:  263681.84 ResDuration:         68
+NO:  134 YEAR:  12 MONTH:    2 DATE:   2031-02-01 RATE:    4934.51 INTEREST:    1852.36 CAPITAL:    3082.15 OVERPAY:          0 ResAmount:  260599.69 ResDuration:         67
+NO:  135 YEAR:  12 MONTH:    3 DATE:   2031-03-01 RATE:    4934.51 INTEREST:    1830.71 CAPITAL:    3103.80 OVERPAY:          0 ResAmount:  257495.89 ResDuration:         66
+NO:  136 YEAR:  12 MONTH:    4 DATE:   2031-04-01 RATE:    4934.51 INTEREST:    1808.91 CAPITAL:    3125.60 OVERPAY:          0 ResAmount:  254370.29 ResDuration:         65
+NO:  137 YEAR:  12 MONTH:    5 DATE:   2031-05-01 RATE:    4934.51 INTEREST:    1786.95 CAPITAL:    3147.56 OVERPAY:          0 ResAmount:  251222.73 ResDuration:         64
+NO:  138 YEAR:  12 MONTH:    6 DATE:   2031-06-01 RATE:    4934.51 INTEREST:    1764.84 CAPITAL:    3169.67 OVERPAY:          0 ResAmount:  248053.06 ResDuration:         63
+NO:  139 YEAR:  12 MONTH:    7 DATE:   2031-07-01 RATE:    4934.51 INTEREST:    1742.57 CAPITAL:    3191.94 OVERPAY:          0 ResAmount:  244861.12 ResDuration:         62
+NO:  140 YEAR:  12 MONTH:    8 DATE:   2031-08-01 RATE:    4934.51 INTEREST:    1720.15 CAPITAL:    3214.36 OVERPAY:          0 ResAmount:  241646.76 ResDuration:         61
+NO:  141 YEAR:  12 MONTH:    9 DATE:   2031-09-01 RATE:    4934.51 INTEREST:    1697.57 CAPITAL:    3236.94 OVERPAY:          0 ResAmount:  238409.82 ResDuration:         60
+NO:  142 YEAR:  12 MONTH:   10 DATE:   2031-10-01 RATE:    4934.51 INTEREST:    1674.83 CAPITAL:    3259.68 OVERPAY:          0 ResAmount:  235150.14 ResDuration:         59
+NO:  143 YEAR:  12 MONTH:   11 DATE:   2031-11-01 RATE:    4934.51 INTEREST:    1651.93 CAPITAL:    3282.58 OVERPAY:          0 ResAmount:  231867.56 ResDuration:         58
+NO:  144 YEAR:  12 MONTH:   12 DATE:   2031-12-01 RATE:    4934.51 INTEREST:    1628.87 CAPITAL:    3305.64 OVERPAY:          0 ResAmount:  228561.92 ResDuration:         57
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  145 YEAR:  13 MONTH:    1 DATE:   2032-01-01 RATE:    4934.51 INTEREST:    1605.65 CAPITAL:    3328.86 OVERPAY:          0 ResAmount:  225233.06 ResDuration:         56
+NO:  146 YEAR:  13 MONTH:    2 DATE:   2032-02-01 RATE:    4934.51 INTEREST:    1582.26 CAPITAL:    3352.25 OVERPAY:          0 ResAmount:  221880.81 ResDuration:         55
+NO:  147 YEAR:  13 MONTH:    3 DATE:   2032-03-01 RATE:    4934.51 INTEREST:    1558.71 CAPITAL:    3375.80 OVERPAY:          0 ResAmount:  218505.01 ResDuration:         54
+NO:  148 YEAR:  13 MONTH:    4 DATE:   2032-04-01 RATE:    4934.51 INTEREST:    1535.00 CAPITAL:    3399.51 OVERPAY:          0 ResAmount:  215105.50 ResDuration:         53
+NO:  149 YEAR:  13 MONTH:    5 DATE:   2032-05-01 RATE:    4934.51 INTEREST:    1511.12 CAPITAL:    3423.39 OVERPAY:          0 ResAmount:  211682.11 ResDuration:         52
+NO:  150 YEAR:  13 MONTH:    6 DATE:   2032-06-01 RATE:    4934.51 INTEREST:    1487.07 CAPITAL:    3447.44 OVERPAY:          0 ResAmount:  208234.67 ResDuration:         51
+NO:  151 YEAR:  13 MONTH:    7 DATE:   2032-07-01 RATE:    4934.51 INTEREST:    1462.85 CAPITAL:    3471.66 OVERPAY:          0 ResAmount:  204763.01 ResDuration:         50
+NO:  152 YEAR:  13 MONTH:    8 DATE:   2032-08-01 RATE:    4934.51 INTEREST:    1438.46 CAPITAL:    3496.05 OVERPAY:          0 ResAmount:  201266.96 ResDuration:         49
+NO:  153 YEAR:  13 MONTH:    9 DATE:   2032-09-01 RATE:    4934.51 INTEREST:    1413.90 CAPITAL:    3520.61 OVERPAY:          0 ResAmount:  197746.35 ResDuration:         48
+NO:  154 YEAR:  13 MONTH:   10 DATE:   2032-10-01 RATE:    4934.51 INTEREST:    1389.17 CAPITAL:    3545.34 OVERPAY:          0 ResAmount:  194201.01 ResDuration:         47
+NO:  155 YEAR:  13 MONTH:   11 DATE:   2032-11-01 RATE:    4934.51 INTEREST:    1364.26 CAPITAL:    3570.25 OVERPAY:          0 ResAmount:  190630.76 ResDuration:         46
+NO:  156 YEAR:  13 MONTH:   12 DATE:   2032-12-01 RATE:    4934.51 INTEREST:    1339.18 CAPITAL:    3595.33 OVERPAY:          0 ResAmount:  187035.43 ResDuration:         45
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  157 YEAR:  14 MONTH:    1 DATE:   2033-01-01 RATE:    4934.51 INTEREST:    1313.92 CAPITAL:    3620.59 OVERPAY:          0 ResAmount:  183414.84 ResDuration:         44
+NO:  158 YEAR:  14 MONTH:    2 DATE:   2033-02-01 RATE:    4934.51 INTEREST:    1288.49 CAPITAL:    3646.02 OVERPAY:          0 ResAmount:  179768.82 ResDuration:         43
+NO:  159 YEAR:  14 MONTH:    3 DATE:   2033-03-01 RATE:    4934.51 INTEREST:    1262.88 CAPITAL:    3671.63 OVERPAY:          0 ResAmount:  176097.19 ResDuration:         42
+NO:  160 YEAR:  14 MONTH:    4 DATE:   2033-04-01 RATE:    4934.51 INTEREST:    1237.08 CAPITAL:    3697.43 OVERPAY:          0 ResAmount:  172399.76 ResDuration:         41
+NO:  161 YEAR:  14 MONTH:    5 DATE:   2033-05-01 RATE:    4934.51 INTEREST:    1211.11 CAPITAL:    3723.40 OVERPAY:          0 ResAmount:  168676.36 ResDuration:         40
+NO:  162 YEAR:  14 MONTH:    6 DATE:   2033-06-01 RATE:    4934.51 INTEREST:    1184.95 CAPITAL:    3749.56 OVERPAY:          0 ResAmount:  164926.80 ResDuration:         39
+NO:  163 YEAR:  14 MONTH:    7 DATE:   2033-07-01 RATE:    4934.51 INTEREST:    1158.61 CAPITAL:    3775.90 OVERPAY:          0 ResAmount:  161150.90 ResDuration:         38
+NO:  164 YEAR:  14 MONTH:    8 DATE:   2033-08-01 RATE:    4934.51 INTEREST:    1132.09 CAPITAL:    3802.42 OVERPAY:          0 ResAmount:  157348.48 ResDuration:         37
+NO:  165 YEAR:  14 MONTH:    9 DATE:   2033-09-01 RATE:    4934.51 INTEREST:    1105.37 CAPITAL:    3829.14 OVERPAY:          0 ResAmount:  153519.34 ResDuration:         36
+NO:  166 YEAR:  14 MONTH:   10 DATE:   2033-10-01 RATE:    4934.51 INTEREST:    1078.47 CAPITAL:    3856.04 OVERPAY:          0 ResAmount:  149663.30 ResDuration:         35
+NO:  167 YEAR:  14 MONTH:   11 DATE:   2033-11-01 RATE:    4934.51 INTEREST:    1051.38 CAPITAL:    3883.13 OVERPAY:          0 ResAmount:  145780.17 ResDuration:         34
+NO:  168 YEAR:  14 MONTH:   12 DATE:   2033-12-01 RATE:    4934.51 INTEREST:    1024.11 CAPITAL:    3910.40 OVERPAY:          0 ResAmount:  141869.77 ResDuration:         33
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  169 YEAR:  15 MONTH:    1 DATE:   2034-01-01 RATE:    4934.51 INTEREST:     996.64 CAPITAL:    3937.87 OVERPAY:          0 ResAmount:  137931.90 ResDuration:         32
+NO:  170 YEAR:  15 MONTH:    2 DATE:   2034-02-01 RATE:    4934.51 INTEREST:     968.97 CAPITAL:    3965.54 OVERPAY:          0 ResAmount:  133966.36 ResDuration:         31
+NO:  171 YEAR:  15 MONTH:    3 DATE:   2034-03-01 RATE:    4934.51 INTEREST:     941.11 CAPITAL:    3993.40 OVERPAY:          0 ResAmount:  129972.96 ResDuration:         30
+NO:  172 YEAR:  15 MONTH:    4 DATE:   2034-04-01 RATE:    4934.51 INTEREST:     913.06 CAPITAL:    4021.45 OVERPAY:          0 ResAmount:  125951.51 ResDuration:         29
+NO:  173 YEAR:  15 MONTH:    5 DATE:   2034-05-01 RATE:    4934.51 INTEREST:     884.81 CAPITAL:    4049.70 OVERPAY:          0 ResAmount:  121901.81 ResDuration:         28
+NO:  174 YEAR:  15 MONTH:    6 DATE:   2034-06-01 RATE:    4934.51 INTEREST:     856.36 CAPITAL:    4078.15 OVERPAY:          0 ResAmount:  117823.66 ResDuration:         27
+NO:  175 YEAR:  15 MONTH:    7 DATE:   2034-07-01 RATE:    4934.51 INTEREST:     827.71 CAPITAL:    4106.80 OVERPAY:          0 ResAmount:  113716.86 ResDuration:         26
+NO:  176 YEAR:  15 MONTH:    8 DATE:   2034-08-01 RATE:    4934.51 INTEREST:     798.86 CAPITAL:    4135.65 OVERPAY:          0 ResAmount:  109581.21 ResDuration:         25
+NO:  177 YEAR:  15 MONTH:    9 DATE:   2034-09-01 RATE:    4934.51 INTEREST:     769.81 CAPITAL:    4164.70 OVERPAY:          0 ResAmount:  105416.51 ResDuration:         24
+NO:  178 YEAR:  15 MONTH:   10 DATE:   2034-10-01 RATE:    4934.51 INTEREST:     740.55 CAPITAL:    4193.96 OVERPAY:          0 ResAmount:  101222.55 ResDuration:         23
+NO:  179 YEAR:  15 MONTH:   11 DATE:   2034-11-01 RATE:    4934.51 INTEREST:     711.09 CAPITAL:    4223.42 OVERPAY:          0 ResAmount:   96999.13 ResDuration:         22
+NO:  180 YEAR:  15 MONTH:   12 DATE:   2034-12-01 RATE:    4934.51 INTEREST:     681.42 CAPITAL:    4253.09 OVERPAY:          0 ResAmount:   92746.04 ResDuration:         21
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  181 YEAR:  16 MONTH:    1 DATE:   2035-01-01 RATE:    4934.51 INTEREST:     651.54 CAPITAL:    4282.97 OVERPAY:          0 ResAmount:   88463.07 ResDuration:         20
+NO:  182 YEAR:  16 MONTH:    2 DATE:   2035-02-01 RATE:    4934.51 INTEREST:     621.45 CAPITAL:    4313.06 OVERPAY:          0 ResAmount:   84150.01 ResDuration:         19
+NO:  183 YEAR:  16 MONTH:    3 DATE:   2035-03-01 RATE:    4934.51 INTEREST:     591.15 CAPITAL:    4343.36 OVERPAY:          0 ResAmount:   79806.65 ResDuration:         18
+NO:  184 YEAR:  16 MONTH:    4 DATE:   2035-04-01 RATE:    4934.51 INTEREST:     560.64 CAPITAL:    4373.87 OVERPAY:          0 ResAmount:   75432.78 ResDuration:         17
+NO:  185 YEAR:  16 MONTH:    5 DATE:   2035-05-01 RATE:    4934.51 INTEREST:     529.92 CAPITAL:    4404.59 OVERPAY:          0 ResAmount:   71028.19 ResDuration:         16
+NO:  186 YEAR:  16 MONTH:    6 DATE:   2035-06-01 RATE:    4934.51 INTEREST:     498.97 CAPITAL:    4435.54 OVERPAY:          0 ResAmount:   66592.65 ResDuration:         15
+NO:  187 YEAR:  16 MONTH:    7 DATE:   2035-07-01 RATE:    4934.51 INTEREST:     467.81 CAPITAL:    4466.70 OVERPAY:          0 ResAmount:   62125.95 ResDuration:         14
+NO:  188 YEAR:  16 MONTH:    8 DATE:   2035-08-01 RATE:    4934.51 INTEREST:     436.43 CAPITAL:    4498.08 OVERPAY:          0 ResAmount:   57627.87 ResDuration:         13
+NO:  189 YEAR:  16 MONTH:    9 DATE:   2035-09-01 RATE:    4934.51 INTEREST:     404.84 CAPITAL:    4529.67 OVERPAY:          0 ResAmount:   53098.20 ResDuration:         12
+NO:  190 YEAR:  16 MONTH:   10 DATE:   2035-10-01 RATE:    4934.51 INTEREST:     373.01 CAPITAL:    4561.50 OVERPAY:          0 ResAmount:   48536.70 ResDuration:         11
+NO:  191 YEAR:  16 MONTH:   11 DATE:   2035-11-01 RATE:    4934.51 INTEREST:     340.97 CAPITAL:    4593.54 OVERPAY:          0 ResAmount:   43943.16 ResDuration:         10
+NO:  192 YEAR:  16 MONTH:   12 DATE:   2035-12-01 RATE:    4934.51 INTEREST:     308.70 CAPITAL:    4625.81 OVERPAY:          0 ResAmount:   39317.35 ResDuration:          9
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NO:  193 YEAR:  17 MONTH:    1 DATE:   2036-01-01 RATE:    4934.51 INTEREST:     276.20 CAPITAL:    4658.31 OVERPAY:          0 ResAmount:   34659.04 ResDuration:          8
+NO:  194 YEAR:  17 MONTH:    2 DATE:   2036-02-01 RATE:    4934.51 INTEREST:     243.48 CAPITAL:    4691.03 OVERPAY:          0 ResAmount:   29968.01 ResDuration:          7
+NO:  195 YEAR:  17 MONTH:    3 DATE:   2036-03-01 RATE:    4934.51 INTEREST:     210.53 CAPITAL:    4723.98 OVERPAY:          0 ResAmount:   25244.03 ResDuration:          6
+NO:  196 YEAR:  17 MONTH:    4 DATE:   2036-04-01 RATE:    4934.51 INTEREST:     177.34 CAPITAL:    4757.17 OVERPAY:          0 ResAmount:   20486.86 ResDuration:          5
+NO:  197 YEAR:  17 MONTH:    5 DATE:   2036-05-01 RATE:    4934.51 INTEREST:     143.92 CAPITAL:    4790.59 OVERPAY:          0 ResAmount:   15696.27 ResDuration:          4
+NO:  198 YEAR:  17 MONTH:    6 DATE:   2036-06-01 RATE:    4934.51 INTEREST:     110.27 CAPITAL:    4824.24 OVERPAY:          0 ResAmount:   10872.03 ResDuration:          3
+NO:  199 YEAR:  17 MONTH:    7 DATE:   2036-07-01 RATE:    4934.51 INTEREST:      76.38 CAPITAL:    4858.13 OVERPAY:          0 ResAmount:    6013.90 ResDuration:          2
+NO:  200 YEAR:  17 MONTH:    8 DATE:   2036-08-01 RATE:    4934.51 INTEREST:      42.25 CAPITAL:    4892.26 OVERPAY:          0 ResAmount:    1121.64 ResDuration:          1
+NO:  201 YEAR:  17 MONTH:    9 DATE:   2036-09-01 RATE:    1129.52 INTEREST:       7.88 CAPITAL:    1121.64 OVERPAY:          0 ResAmount:       0.00 ResDuration:          0
+
